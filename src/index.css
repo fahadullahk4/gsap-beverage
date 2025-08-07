@@ -123,7 +123,7 @@ body::-webkit-scrollbar {
     }
 
     .msg-text-scroll {
-      @apply rotate-[3deg] 2xl:translate-y-5 -translate-y-5 absolute z-10 border-[.5vw] border-[#7f3b2d];
+      @apply rotate-[5deg] 2xl:translate-y-5 xl:-translate-y-3 md:-translate-y-15 -translate-y-5 absolute z-10 border-[.5vw] border-[#7f3b2d];
     }
   }
 
